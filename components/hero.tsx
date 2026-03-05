@@ -15,14 +15,13 @@ export const Hero = () => {
     <Container className="border-divide flex flex-col items-center justify-center border-x px-4 pt-10 pb-10 md:pt-32 md:pb-20">
       <Badge text="For fast moving engineering teams." />
       <Heading className="mt-4">
-        Install the Infrastructure Behind <br />{" "}
+        Install the Infrastructure <br /> Behind{" "}
         <span className="text-brand">Brokerage Growth</span>
       </Heading>
 
       <SubHeading className="mx-auto mt-6 max-w-lg">
         Modern brokerages scale through systems, not hustle. We install the
-        infrastructure behind predictable recruiting, automated onboarding, and
-        centralized operations.
+        infrastructure behind predictable recruiting and centralized operations.
       </SubHeading>
 
       <div className="mt-6 flex items-center gap-4">
