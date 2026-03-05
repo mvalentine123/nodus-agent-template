@@ -15,13 +15,14 @@ export const Hero = () => {
     <Container className="border-divide flex flex-col items-center justify-center border-x px-4 pt-10 pb-10 md:pt-32 md:pb-20">
       <Badge text="For fast moving engineering teams." />
       <Heading className="mt-4">
-        Manage and simulate <br /> agentic{" "}
-        <span className="text-brand">workflows</span>
+        Install the Infrastructure Behind <br />{" "}
+        <span className="text-brand">Brokerage Growth</span>
       </Heading>
 
       <SubHeading className="mx-auto mt-6 max-w-lg">
-        We empower developers and technical teams to create, simulate, and
-        manage AI-driven workflows visually
+        Modern brokerages scale through systems, not hustle. We install the
+        infrastructure behind predictable recruiting, automated onboarding, and
+        centralized operations.
       </SubHeading>
 
       <div className="mt-6 flex items-center gap-4">
